@@ -18,7 +18,7 @@ Community driven applications and extensions written to extend the power of the 
 | ![app-icon](/res/io.github.cosmic_utils.camera.svg) | **Camera**: A camera application for the COSMIC™ desktop. [Source on Github](https://github.com/cosmic-utils/camera) |
 | | **Wizard**: deb packages installer made with magic for the COSMIC™ desktop! [Source on Github](https://github.com/cosmic-utils/wizard) |
 | | **Observatory**: An in-development system monitor application for the COSMIC desktop environment. [Source on Github](https://github.com/cosmic-utils/observatory) |
-
+| ![app-icon](/res/io.github.cosmic_utils.enroll.svg) | **Enroll**: GUI to manage your fingerprint scanner. [Source on Github](https://github.com/cosmic-utils/enroll) |
 ## Applets
 
 | | |
